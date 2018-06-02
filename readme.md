@@ -257,3 +257,5 @@ summon abilities
 &nbsp;&nbsp;&nbsp;&nbsp;fortune [18](#summonabilities)  
 tapped [5](#summoningagents), [7](#combatphase), [9](#duels)  
 void [2](#thefield)  
+
+This is an adaptation of [the Google Doc](https://docs.google.com/document/d/1zoLB9S9_0dIeygJcQ1hpaOnfCQ_LU5jwaDGzPRtzBzY/edit) which was orignally posted at [Justin's Facebook](https://www.facebook.com/justin.elkan.jones/posts/10216438519702625).
